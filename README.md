@@ -41,7 +41,7 @@ Click the badge to open in Kaggle:
 ### Option 2: Clone & Run Locally
 
 ```bash
-git clone https://github.com/yourusername/personal-finance-analyzer.git
+git clone https://github.com/Shabeehak/AI_Agent-Personal-Finance-Analyzer-Agent.git
 cd personal-finance-analyzer
 # Follow Kaggle notebook instructions to install dependencies and run
 ```
