@@ -1,8 +1,4 @@
 # Personal Finance Analyzer Agent
-
-> **Try it live:** [Open in Kaggle Notebook](https://www.kaggle.com/code/shabeeha/personal-finance-analyser) \
-> **Watch demo:** [YouTube video](https://youtu.be/wvuzctn4Dio)
-
 ---
 
 ## Overview
@@ -36,6 +32,8 @@ It helps users:
 ![Demo Thumbnail](thumbnail.png)
 
 ---
+> **Try it live:** [Open in Kaggle Notebook](https://www.kaggle.com/code/shabeeha/personal-finance-analyser) \
+> **Watch demo:** [YouTube video](https://youtu.be/wvuzctn4Dio)
 
 ## Quick Start
 
