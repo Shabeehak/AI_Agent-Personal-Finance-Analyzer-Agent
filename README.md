@@ -1,5 +1,6 @@
 # Personal Finance Analyzer Agent
 ---
+![Demo Thumbnail](images/thumbnail.png)
 
 ## Overview
 
@@ -15,7 +16,7 @@ It helps users:
 
 ## Architecture
 
-![Architecture Diagram](architecture.png)
+![Architecture Diagram](images/architecture.png)
 
 **Highlights:**
 
@@ -24,12 +25,6 @@ It helps users:
 * 8 custom financial tools
 * Memory system for goal tracking and history
 * Multi-agent design enables parallel processing and specialized reasoning
-
----
-
-## Demo Thumbnail
-
-![Demo Thumbnail](thumbnail.png)
 
 ---
 > **Try it live:** [Open in Kaggle Notebook](https://www.kaggle.com/code/shabeeha/personal-finance-analyser) \
@@ -76,5 +71,3 @@ cd personal-finance-analyzer
 ## License
 
 This project is licensed under the MIT License.
-
-Do you want me to do that next?
